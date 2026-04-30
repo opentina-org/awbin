@@ -1,0 +1,30 @@
+Copyright (c) 2019-2025 Allwinner Technology Co., Ltd. All rights reserved.
+
+This software is the proprietary property of Allwinner Technology Co., Ltd. ("Allwinner").
+
+By downloading, copying, installing or using this software in any manner,
+you acknowledge and agree to be bound by the terms and conditions set forth below.
+
+Allwinner grants you a non-exclusive, non-transferable, royalty-free license to use,
+copy, modify and distribute this software exclusively for use with Allwinner products.
+Such use shall be governed by the separate license agreement supplied with the software;
+if no such agreement exists, the terms of this copyright notice shall prevail.
+
+Without prior written explicit authorization from Allwinner, you shall not:
+(a) Decompile, disassemble, reverse engineer, or attempt to derive source code
+    from this software;
+(b) Remove or alter any copyright, patent or trademark notices contained
+    within the software.
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE.
+
+In no event shall Allwinner be liable for any direct, indirect, incidental, special,
+exemplary or consequential damages, including without limitation procurement of
+substitute goods or services, loss of use, data or profits, or business interruption,
+however caused and under any legal theory of liability, whether in contract, strict
+liability or tort, arising out of or in connection with the use of this software,
+even if advised of the possibility of such damages.
+
+All rights not expressly granted herein are reserved by Allwinner.
